@@ -1,0 +1,1 @@
+-- SQL to create devices, interfaces, links tables

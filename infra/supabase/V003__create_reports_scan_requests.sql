@@ -1,0 +1,1 @@
+-- SQL to create reports and scan_requests tables

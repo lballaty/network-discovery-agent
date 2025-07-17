@@ -1,0 +1,7 @@
+typer
+supabase
+openai
+apscheduler
+scapy
+impacket
+zeroconf

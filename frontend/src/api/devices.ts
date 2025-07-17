@@ -1,0 +1,1 @@
+// Supabase CRUD for devices
